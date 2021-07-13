@@ -7,7 +7,7 @@ About me:
 * What peoples I like: pasioned peoples about their work.
 * Dislike: lies...I can understand & accept all other human defects :)) but this.
 
-- 👀 My repositories are hobby projects. The active one at this moment is a small game based on which I build a platform to allow the beginners to understand and 
+- 👀 My repositories are hobby projects (see Projects tab). The active one at this moment is a small game based on which I build a platform to allow the beginners to understand and 
 create their own content aka games. I do this only for fun..so if you want to join me make sure you have one of those skills:
 * OpenGL or Vulkan or Metal
 * Blender or any graphic vector skills 
